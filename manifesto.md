@@ -17,4 +17,4 @@ Code@LTH Manifesto
 
 ### Going forward
 
-We are still a very young organization and are unsure of the best methods and their specifics to best fullfill our intents. Since we do not know *how* we will change it is of great importance that this document isn't considered overly authorative and is subject to constant change and revision. We do however hope that this document will try to be short and concise, and should neither be too specific or too broad.
+We are still a very young organization and are unsure of the best methods and their specifics to best fullfill our intents. Since we do not know *how* we will change it is of great importance that this document isn't considered overly authorative and is subject to constant change and revision. We do however hope that this document will try to be short and concise, and should neither be too specific nor too broad.
