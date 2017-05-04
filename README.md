@@ -1,7 +1,7 @@
 Code@LTH Meta Repository
 ========================
 
-![issues](https://img.shields.io/github/issues/badges/shields.svg)
+![issues](https://img.shields.io/github/issues/Code-at-LTH/meta.svg)
 
 *A repository for Code@LTH's (semi-)official documents*
 
