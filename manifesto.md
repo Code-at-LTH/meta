@@ -19,7 +19,8 @@ Code@LTH Manifesto
 
 ### Rules
 
- - Leave politics, religion and prejudice at the door.
+ - Leave prejudice and bigotry at the door.
+ - We are independent of any political party (partipolitiskt obundet).
 
 
 ### Going forward

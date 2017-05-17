@@ -1,3 +1,11 @@
+Code@LTH Stadgar
+===============
+
+For English readers: [*Stadgar*](https://sv.wikipedia.org/wiki/Stadgar) is the Swedish term for [*by-law*](https://en.wikipedia.org/wiki/By-law).
+
+Having a by-law is a necessary requirement in order to be able to incorporate a nonprofit organization in Sweden. 
+It is intended that the by-law will be publicly available here in Swedish for public display to our members.
+
 # 1 FÖRENINGEN
 - 1.1 Föreningens namn är Code at LTH, vilket skrives stiliserat Code@LTH.
 - 1.2 Föreningens syfte är att öka intresset för programmering, främst hos studenter vid Lunds Tekniska Högskola men vem som hellst är välkommen att delta. 
