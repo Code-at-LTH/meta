@@ -11,5 +11,4 @@
 - Skapa en sammanställning av kontaktpersoner.
 
 # Löpande verksamhet
-- Föreningen skall annorna event på LTH i utbildande syfte riktat mot högskolestudenter.
-- Föreningen skall tillsammans med Lund Sustainable Engineers annordna etikpubar.
+- Föreningen skall annordna event på LTH i utbildande syfte riktat mot högskolestudenter.

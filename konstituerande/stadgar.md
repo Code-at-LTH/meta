@@ -43,7 +43,7 @@ It is intended that the by-law will be publicly available here in Swedish for pu
 
 # 5 REVISORER
 - 5.1 Valbar till revisor är myndig person bosatt i Sverige och som ej är satt i konkurs eller invald i styrelsen för det verksamhetsår revisorsuppdraget gäller. 
-- 5.2 Minst en revisor och revisorssuppleant skall väljas av Ordinarie Årsmöte.
+- 5.2 Minst en revisor skall väljas av Ordinarie Årsmöte.
 - 5.3 Revisorernas uppgift är att granska föreningens räkenskaper samt handlingar, och upprätta en revisionsberättelse inför Ordinarie Årsmöte.
 
 # 6 VALBEREDNING
@@ -64,7 +64,7 @@ It is intended that the by-law will be publicly available here in Swedish for pu
 - 7.8 Ordinarie Årsmöte ska alltid behandla följande frågor:
     - Mötets öppnande
     - Val av mötesordförande och mötesssekreterare
-    - Val av minst 2 justeringspresoner tillika rösträknare
+    - Val av minst 2 justeringspersoner tillika rösträknare
     - Fastställande av dagordning
     - Fastställande av röstlängd
     - Årsmötet behöriga utlysande
@@ -77,7 +77,7 @@ It is intended that the by-law will be publicly available here in Swedish for pu
     - Val av kassör
     - Val av övriga ledamöter
     - Val av suppleanter
-    - Val av revisorer och revisorssuppleanter
+    - Val av revisor.
     - Val av valberedning
     - Fastställande av verksamhetsplan
     - Fastställande av medlemsavgift
