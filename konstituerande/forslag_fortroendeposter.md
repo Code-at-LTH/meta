@@ -3,24 +3,20 @@
 
 ### Ordförande
 
-Som ordförande föreslås X.
+Som ordförande föreslås Jacob Karlsson.
 
 ### Kassör
 
-Som kassör föreslås X.
+Som kassör föreslås Måns Magnusson.
 
 ### Ledamöter
 
-Som ordinarie ledamöter föreslås XXXXXXX
+Som ordinarie ledamöter föreslås Kristian Berg, Erik Bjäreholt, Sofi Flink, 
 
 ### Revisorer
 
-Som revisor föreslås X
-
-Som revisorssuppleant föreslås X
+Som revisor föreslås Lars Åström
 
 ### Valberedning
 
 Som valberedning föreslås X
-
-Som valberedningssuppleant föreslås X
