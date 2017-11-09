@@ -7,7 +7,7 @@ Som ordförande föreslås Jacob Karlsson.
 
 ### Vice Ordförande
 
-Som vice ordförande föreslås XXX.
+Som vice ordförande föreslås Karl-Oskar Rikås.
 
 ### Kassör
 
