@@ -19,7 +19,7 @@ It is intended that the by-law will be publicly available here in Swedish for pu
 - 2.3 Medlemsavgiften beslutas av Årsmöte.
 - 2.4 Medlemskap upphör i dessa fall:
     - På egen begäran
-    - I slutet av ett verksamhetsår
+    - Ett år efter betald medlemsavgift
     - Då medlem uteslutes av årsmöte
 - 2.5 Om årsmötet finner, med två tredjedelars majoritet, att en medlems agerande motarbetar föreningens syfte, kan medlemmen uteslutas.
 
