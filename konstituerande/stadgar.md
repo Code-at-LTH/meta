@@ -8,7 +8,7 @@ It is intended that the by-law will be publicly available here in Swedish for pu
 
 # 1 FÖRENINGEN
 - 1.1 Föreningens namn är Code at LTH, vilket skrives stiliserat Code@LTH.
-- 1.2 Föreningens syfte är att öka intresset för programmering, främst hos studenter vid Lunds Tekniska Högskola men vem som hellst är välkommen att delta. 
+- 1.2 Föreningens syfte är att öka intresset för programmering, främst hos studenter vid Lunds Tekniska Högskola men vem som helst är välkommen att delta. 
 - 1.3 Föreningen är ideell samt partipolitiskt och religiöst obunden.
 - 1.4 Föreningen har kalenderår som verksamhets- och räkenskapsår.
 - 1.5 Code at LTH är en demokratisk förening.
