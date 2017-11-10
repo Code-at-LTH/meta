@@ -60,7 +60,7 @@ It is intended that the by-law will be publicly available here in Swedish for pu
 - 7.4 Under Årsmöte har alla föreningarnas medlemmar och förtroendevalda närvaro-, yttrande- och yrkanderätt.
 - 7.5 Under Årsmöte har alla föreningarnas medlemmar rösträtt.
 - 7.6 Röstning via ombud är inte tillåtet.
-- 7.7 Motioner till mötet måste var föreningens styrelse tillhanda minst 1 vecka innan dagen för årsmötet.
+- 7.7 Motioner till mötet måste vara föreningens styrelse tillhanda minst 1 vecka innan dagen för årsmötet.
 - 7.8 Ordinarie Årsmöte ska alltid behandla följande frågor:
     - Mötets öppnande
     - Val av mötesordförande och mötesssekreterare
@@ -93,5 +93,5 @@ It is intended that the by-law will be publicly available here in Swedish for pu
 
 # 8 UPPLÖSNING
 - 8.1 Upplösning av föreningen kräver beslut av två på varandra följande Ordinarie Årsmöten, eller ett enhälligt Ordinarie Årsmöte.
-- 8.2 Vid föreningens upplösning skall tillgångar realiseras och skulder betalas, varpå kvarvarande tillgångar skall tillfalla en effektiv välgörentehtsorganisation.
+- 8.2 Vid föreningens upplösning skall tillgångar realiseras och skulder betalas, varpå kvarvarande tillgångar skall tillfalla en effektiv välgörenhetsorganisation.
 - 8.3 Till likvidatorer bör föreningens revisorer utses. Likvidatorerna genomför likvidation i samband med föreningens upplösning.
