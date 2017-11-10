@@ -56,7 +56,7 @@ It is intended that the by-law will be publicly available here in Swedish for pu
 - 7.2 Ordinarie Årsmöte ska hållas varje verksamhetsår.
 - 7.3 Ordinarie Årsmöte är beslutsmässigt då:
     - Föreningens styrelse kallat till Ordinarie Årsmöte minst 2 veckor innan dagen för mötet.
-    - Kallelse till mötet inkluderande samtliga möteshandlingar.
+    - Kallelse till mötet inkluderade samtliga möteshandlingar.
 - 7.4 Under Årsmöte har alla föreningarnas medlemmar och förtroendevalda närvaro-, yttrande- och yrkanderätt.
 - 7.5 Under Årsmöte har alla föreningarnas medlemmar rösträtt.
 - 7.6 Röstning via ombud är inte tillåtet.
