@@ -14,7 +14,6 @@
 \usepackage{courier}
 \usepackage{booktabs}
 \usepackage{paralist}
-\usepackage{todonotes}
 %\usepackage{fullpage}
 
 
@@ -24,65 +23,72 @@
 \usepackage{titlesec}
 \titleformat{\section}{\normalfont\Large\bfseries}{\S \thesection}{1em}{}
 \titleformat{\subsection}{\normalfont\large\bfseries}{\S \thesubsection}{1em}{}
-%TODO: Sekreterare
-%TODO: Justerare
-\newcommand{\sekreterare}{Förnamn Efternamn}
-\newcommand{\justerare}{Förnamn Efternamn}
-%TODO: Datum
-\newcommand{\datum}{201X-MM-DD}
+
 
 
 %Ger oss fina  headers och footers
 \pagestyle{fancy}
-\rhead{\it{Styrelsemöte \datum}}
+\rhead{\it{Styrelsemöte 2018-02-28}}
 \chead{}
 \lhead{\it{Code At LTH}}
-\lfoot{{\scriptsize Sekreterare: \sekreterare }}
+\lfoot{{\scriptsize Sekreterare: Måns Magnusson}}
 \cfoot{\thepage\   av \pageref{Last page}}
-\rfoot{{\scriptsize Justerare: \justerare}}
+\rfoot{{\scriptsize Justerare: Jacob Karlsson}}
 
 \fancypagestyle{first}{%
   \fancyhf{}
-  \fancyfoot[L]{{\scriptsize Sekreterare: \sekreterare}}
+  \fancyfoot[L]{{\scriptsize Sekreterare: Måns Magnusson}}
   \fancyfoot[C]{ \thepage\   av \pageref{Last page}}
-  \fancyfoot[R]{{\scriptsize Justerare: \justerare}}
+  \fancyfoot[R]{{\scriptsize Justerare: Jacob Karlsson}}
   \renewcommand{\headrulewidth}{0pt}
   \renewcommand{\footrulewidth}{0pt}}
 
 \begin{document}
 
 \title{
-  \Huge{Code At LTH} \\
-Protokoll Styrelsemote \datum}
-\author{ Sekreterare: \sekreterare}
+    \Huge{Code At LTH} \\
+Protokoll Styrelsemöte 2018-02-28 }
+\author{ Sekreterare: Måns Magnusson}
 \date{}
 \maketitle
 \thispagestyle{first}
 
-%TODO: Fyll i närvarande
-{\bf Närvarande styrelsen:}  \\
-{\bf Frånvarande styrelsen:} \\
+{\bf Närvarande styrelsen:} Måns Magnusson, Jacob Karlsson, Erik Bjäreholt, Karl-Oskar Rikås, Simon Persson \\
+{\bf Frånvarande styrelsen:} Sofi Flink, Kristian Berg\\
 
 \section{Mötets öppnande}
+Ordförande Jacob Karlsson förklarade mötet öppnat 12:22.
 
 \section{Val av justerare för mötet} 
 
+\emph{Styrelsen beslutade att} välja Jacob Karlsson att justera mötet. 
+
 \section{Val av sekreterare för mötet} 
+
+\emph{Styrelsen beslutade att} välja Måns Magnusson till sekreterare för mötet. 
 
 \section{Godkännande av dagordning}
 
+\emph{Styrelsen beslutade att} godkänna dagordningen.
+
 \newpage
+\section{Val av firmatecknare}
+\emph{Styrelsen beslutade att} välja Måns Magnusson som enda firmatecknare.
 
 \section{Nästa styrelsemöte}
+\emph{Styrelsen beslutade att} nästa styrelsemöte skall infalla den 21:e mars, klockan 12:15
+
 
 \section{Mötets avslutande}
+
+Ordförande avslutade mötet kl. 12:26.\\[2ex]
 
 
 \noindent\begin{tabular}{ll}
 \makebox[2.5in]{\hrulefill} & \makebox[2in]{\hrulefill}\\
-\sekreterare, sekreterare & Datum och ort\\[6ex]
+Måns Magnusson, sekreterare & Datum och ort\\[6ex]
 \makebox[2.5in]{\hrulefill} & \makebox[2in]{\hrulefill}\\
-\justerare, justerare & Datum och ort\\[6ex]
+Jacob Karlsson, justerare & Datum och ort\\[6ex]
 
 \end{tabular}
 
