@@ -1,0 +1,104 @@
+% !TEX encoding = UTF-8 Unicode
+\documentclass{article}
+
+\usepackage[swedish]{babel} 
+\usepackage[T1]{fontenc} 
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage[pdftex]{graphicx}
+\usepackage{fancyvrb}
+\usepackage{array}
+\usepackage{fancyhdr}
+\usepackage{courier}
+\usepackage{booktabs}
+\usepackage{paralist}
+\usepackage{todonotes}
+%\usepackage{fullpage}
+
+
+\usepackage[parfill]{parskip}
+
+%Fin numrering
+\usepackage{titlesec}
+\titleformat{\section}{\normalfont\Large\bfseries}{\S \thesection}{1em}{}
+\titleformat{\subsection}{\normalfont\large\bfseries}{\S \thesubsection}{1em}{}
+\newcommand{\sekreterare}{M\aa ns Magnusson}
+\newcommand{\justerare}{Jacob Karlsson}
+\newcommand{\datum}{2018-05-02}
+
+
+%Ger oss fina  headers och footers
+\pagestyle{fancy}
+\rhead{\it{Styrelsemöte \datum}}
+\chead{}
+\lhead{\it{Code At LTH}}
+\lfoot{{\scriptsize Sekreterare: \sekreterare }}
+\cfoot{\thepage\   av \pageref{Last page}}
+\rfoot{{\scriptsize Justerare: \justerare}}
+
+\fancypagestyle{first}{%
+  \fancyhf{}
+  \fancyfoot[L]{{\scriptsize Sekreterare: \sekreterare}}
+  \fancyfoot[C]{ \thepage\   av \pageref{Last page}}
+  \fancyfoot[R]{{\scriptsize Justerare: \justerare}}
+  \renewcommand{\headrulewidth}{0pt}
+  \renewcommand{\footrulewidth}{0pt}}
+
+\begin{document}
+
+\title{
+  \Huge{Code At LTH} \\
+Protokoll Styrelsemöte \datum}
+\author{ Sekreterare: \sekreterare}
+\date{}
+\maketitle
+\thispagestyle{first}
+
+{\bf Närvarande styrelsen: Måns Magnusson, Jacob Karlsson, Karl-Oskar Rikås, Simon Persson, Kristian Berg.}  \\
+{\bf Frånvarande styrelsen: Sofi Flink, Erik Bjäreholt, Daniel Huber.} \\
+{\bf Övriga närvarande: Marcus Rettig, Alexander Tuoma.} \\
+
+\section{Mötets öppnande}
+\emph{Jacob Karlsson öppnade} mötet klockan 12:26.
+
+\section{Val av justerare för mötet} 
+\emph{Styrelsen beslutade att} välja Jacob Karlsson till justerare.
+
+\section{Val av sekreterare för mötet} 
+\emph{Styrelsen beslutade att} välja Måns Magnusson till sekreterare.
+
+\section{Godkännande av dagordning}
+\emph{Styrelsen beslutade att} godkänna dagordningen.
+
+\section{Lunds Kommuns Värdegrund}
+\emph{Styrelsen beslutade att} Code At LTH skall arbeta aktivt med Lunds kommuns värdegrund, genom ett antal arbetspunkter.
+
+\section{Arbetspunkter}
+\emph{Styrelsen beslutade att} anta följande arbetspunkter:
+\begin{description}
+  \item [Öppenhet] Code At LTH skall arrangera evenemang för alla som är intresserade av programmering och öppen mjukvara, dvs även för personer som inte är medlemmar i teknologkåren. Hittills har vi framför allt lyckats locka några gymnasister att komma regelbundet på våra evenemang.
+  \item [Vegetarisk mat] När Code At LTH erbjuder mat på sina evenemang skall endast vegetarisk mat erbjudas, för miljöns skull. T.ex. skall vi endast ha falafel på vår lunchföreläsning nästa vecka.
+  \item [Drog och Alkoholfria evenemang] Vi arrangerar redan och skall fortsätta arrangera drog och alkoholfria evenemang. Vi tycker det är viktigt och värdefullt att anordna evenemang där personer som inte är intresserade av droger eller alkohol känner sig välkomna. Vi bidrar till fler sådana evenemang, vilket det behövs fler av, inte minst inom studentvärlden.
+  \item [Inkluderande beslutsfattning] Alla medlemmar i Code At LTH är välkomna på våra lunchmöten som tar plats på onsdagar i E-huset på LTH. Där diskuterar vi vad för evenemang vi härnäst skall anordna.
+\end{description}
+\section{Nästa styrelsemöte}
+\emph{Jacob Karlsson skickar ut} kallelse till nästa styrelsemöte i styrelsens slack-kanal.
+
+\section{Mötets avslutande}
+\emph{Jacob Karlsson avslutade} mötet 12:41.
+
+
+\noindent\begin{tabular}{ll}
+\makebox[2.5in]{\hrulefill} & \makebox[2in]{\hrulefill}\\
+\sekreterare, sekreterare & Datum och ort\\[6ex]
+\makebox[2.5in]{\hrulefill} & \makebox[2in]{\hrulefill}\\
+\justerare, justerare & Datum och ort\\[6ex]
+
+\end{tabular}
+
+\label{Last page}
+
+\end{document}
+
