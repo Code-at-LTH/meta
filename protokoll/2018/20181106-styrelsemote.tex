@@ -1,0 +1,95 @@
+% !TEX encoding = UTF-8 Unicode
+\documentclass{article}
+
+\usepackage[swedish]{babel} 
+\usepackage[T1]{fontenc} 
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage[pdftex]{graphicx}
+\usepackage{fancyvrb}
+\usepackage{array}
+\usepackage{fancyhdr}
+\usepackage{courier}
+\usepackage{booktabs}
+\usepackage{paralist}
+\usepackage{todonotes}
+%\usepackage{fullpage}
+
+
+\usepackage[parfill]{parskip}
+
+%Fin numrering
+\usepackage{titlesec}
+\titleformat{\section}{\normalfont\Large\bfseries}{\S \thesection}{1em}{}
+\titleformat{\subsection}{\normalfont\large\bfseries}{\S \thesubsection}{1em}{}
+\newcommand{\sekreterare}{M\aa ns Magnusson}
+\newcommand{\justerare}{Jacob Karlsson}
+\newcommand{\datum}{2018-11-06}
+
+
+%Ger oss fina  headers och footers
+\pagestyle{fancy}
+\rhead{\it{Styrelsemöte \datum}}
+\chead{}
+\lhead{\it{Code At LTH}}
+\lfoot{{\scriptsize Sekreterare: \sekreterare }}
+\cfoot{\thepage\   av \pageref{Last page}}
+\rfoot{{\scriptsize Justerare: \justerare}}
+
+\fancypagestyle{first}{%
+  \fancyhf{}
+  \fancyfoot[L]{{\scriptsize Sekreterare: \sekreterare}}
+  \fancyfoot[C]{ \thepage\   av \pageref{Last page}}
+  \fancyfoot[R]{{\scriptsize Justerare: \justerare}}
+  \renewcommand{\headrulewidth}{0pt}
+  \renewcommand{\footrulewidth}{0pt}}
+
+\begin{document}
+
+\title{
+  \Huge{Code At LTH} \\
+Protokoll Styrelsemöte \datum}
+\author{ Sekreterare: \sekreterare}
+\date{}
+\maketitle
+\thispagestyle{first}
+
+{\bf Närvarande styrelsen: Måns Magnusson, Jacob Karlsson, Sofi Flink, Erik Bjäreholt.}  \\
+{\bf Frånvarande styrelsen: Daniel Huber, Karl-Oskar Rikås, Simon Persson, Kristian Berg.} \\
+{\bf Övriga närvarande: Björn Magnusson, Erik Amirell Eklöf, Miro Skreppa, Joel Bäcker, Evelina Danielsson, Linnea Allander, Max Carson.} \\
+
+\section{Mötets öppnande}
+\emph{Jacob Karlsson öppnade} mötet klockan 12:45.
+
+\section{Val av justerare för mötet} 
+\emph{Styrelsen beslutade att} välja Jacob Karlsson till justerare.
+
+\section{Val av sekreterare för mötet} 
+\emph{Styrelsen beslutade att} välja Måns Magnusson till sekreterare.
+
+\section{Godkännande av dagordning}
+\emph{Styrelsen beslutade att} godkänna dagordningen.
+
+\section{Medlemskap i Unga Forskare}
+\emph{Styrelsen beslutade att} Code At LTH skall ansöka om medlemskap i Unga Forskare.
+
+\section{Nästa styrelsemöte}
+\emph{Jacob Karlsson skickar ut} kallelse till nästa styrelsemöte i styrelsens slack-kanal.
+
+\section{Mötets avslutande}
+\emph{Jacob Karlsson avslutade} mötet 12:46.
+
+\vspace{3em}
+
+\noindent\begin{tabular}{ll}
+\makebox[2.5in]{\hrulefill} & \makebox[2in]{\hrulefill}\\
+\sekreterare, sekreterare & Datum och ort\\[6ex]
+\makebox[2.5in]{\hrulefill} & \makebox[2in]{\hrulefill}\\
+\justerare, justerare & Datum och ort\\[6ex]
+
+\end{tabular}
+\label{Last page}
+\end{document}
+
